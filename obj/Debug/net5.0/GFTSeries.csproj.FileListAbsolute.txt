@@ -1,0 +1,16 @@
+C:\Users\sandr\GFTSeries\bin\Debug\net5.0\GFTSeries.exe
+C:\Users\sandr\GFTSeries\bin\Debug\net5.0\GFTSeries.deps.json
+C:\Users\sandr\GFTSeries\bin\Debug\net5.0\GFTSeries.runtimeconfig.json
+C:\Users\sandr\GFTSeries\bin\Debug\net5.0\GFTSeries.runtimeconfig.dev.json
+C:\Users\sandr\GFTSeries\bin\Debug\net5.0\GFTSeries.dll
+C:\Users\sandr\GFTSeries\bin\Debug\net5.0\ref\GFTSeries.dll
+C:\Users\sandr\GFTSeries\bin\Debug\net5.0\GFTSeries.pdb
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.csproj.AssemblyReference.cache
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.AssemblyInfoInputs.cache
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.AssemblyInfo.cs
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.csproj.CoreCompileInputs.cache
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.dll
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\ref\GFTSeries.dll
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.pdb
+C:\Users\sandr\GFTSeries\obj\Debug\net5.0\GFTSeries.genruntimeconfig.cache
